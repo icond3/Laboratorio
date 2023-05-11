@@ -36,8 +36,7 @@ public class Monitor {
     public void setTamano(double tamano) {
         this.tamano = tamano;
     }
-
-
+    
     @Override
     public String toString() {
         return "{" +
